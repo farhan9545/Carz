@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Carz</string>
+    <string name="facebook_app_id">151337375704687</string>
+    <string name="veh">Vehicle info</string>
+    <string name="fb_login_protocol_scheme">fb151337375704687</string>
+    <string name="description">Search Cars</string>
+    <string name="search_title">Search Cars</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "491896655565",
+    "firebase_url": "https://carz-8428d.firebaseio.com",
+    "project_id": "carz-8428d",
+    "storage_bucket": "carz-8428d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491896655565:android:3a3d50b6e715b3b8",
+        "android_client_info": {
+          "package_name": "com.example.dell.carz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491896655565-qn031lbmfq60mirhd5jh8l7v0gtac5s7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.carz",
+            "certificate_hash": "cd8821a1e99166981442c237d58463ca70010cb3"
+          }
+        },
+        {
+          "client_id": "491896655565-hrd14dj7c4oiftubs9sq66gqsm1v7njf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD15ipgPA_079eV3q3yonpE3P6Sb8AW5ew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491896655565-hrd14dj7c4oiftubs9sq66gqsm1v7njf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
